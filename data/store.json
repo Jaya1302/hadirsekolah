@@ -1,0 +1,153 @@
+{
+  "seededForDate": "2026-11-14",
+  "students": [
+    {
+      "id": "stu-01",
+      "nis": "20261001",
+      "name": "Ahmad Fauzan Pratama",
+      "className": "XII RPL 1",
+      "gender": "L",
+      "createdAt": "2026-07-15T01:00:00.000Z"
+    },
+    {
+      "id": "stu-02",
+      "nis": "20261002",
+      "name": "Siti Nurhaliza Putri",
+      "className": "XII RPL 1",
+      "gender": "P",
+      "createdAt": "2026-07-15T01:00:00.000Z"
+    },
+    {
+      "id": "stu-03",
+      "nis": "20261003",
+      "name": "Budi Santoso Wijaya",
+      "className": "XII RPL 1",
+      "gender": "L",
+      "createdAt": "2026-07-15T01:00:00.000Z"
+    },
+    {
+      "id": "stu-04",
+      "nis": "20261004",
+      "name": "Dewi Lestari Anggraini",
+      "className": "XII RPL 1",
+      "gender": "P",
+      "createdAt": "2026-07-15T01:00:00.000Z"
+    },
+    {
+      "id": "stu-05",
+      "nis": "20261005",
+      "name": "Rizky Ramadhan Hakim",
+      "className": "XII RPL 2",
+      "gender": "L",
+      "createdAt": "2026-07-15T01:00:00.000Z"
+    },
+    {
+      "id": "stu-06",
+      "nis": "20261006",
+      "name": "Nadia Kusuma Wardani",
+      "className": "XII RPL 2",
+      "gender": "P",
+      "createdAt": "2026-07-15T01:00:00.000Z"
+    },
+    {
+      "id": "stu-07",
+      "nis": "20261007",
+      "name": "Bagas Adi Saputra",
+      "className": "XII RPL 2",
+      "gender": "L",
+      "createdAt": "2026-07-15T01:00:00.000Z"
+    },
+    {
+      "id": "stu-08",
+      "nis": "20261008",
+      "name": "Intan Permata Sari",
+      "className": "XII RPL 2",
+      "gender": "P",
+      "createdAt": "2026-07-15T01:00:00.000Z"
+    },
+    {
+      "id": "stu-09",
+      "nis": "20261009",
+      "name": "Fajar Hidayatullah",
+      "className": "XI TKJ 1",
+      "gender": "L",
+      "createdAt": "2026-07-15T01:00:00.000Z"
+    },
+    {
+      "id": "stu-10",
+      "nis": "20261010",
+      "name": "Aulia Rahmawati",
+      "className": "XI TKJ 1",
+      "gender": "P",
+      "createdAt": "2026-07-15T01:00:00.000Z"
+    },
+    {
+      "id": "stu-11",
+      "nis": "20261011",
+      "name": "Dimas Prasetyo Nugroho",
+      "className": "XI TKJ 1",
+      "gender": "L",
+      "createdAt": "2026-07-15T01:00:00.000Z"
+    },
+    {
+      "id": "stu-12",
+      "nis": "20261012",
+      "name": "Rani Puspita Dewi",
+      "className": "XI TKJ 1",
+      "gender": "P",
+      "createdAt": "2026-07-15T01:00:00.000Z"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "att-seed-03",
+      "studentId": "stu-03",
+      "nis": "20261003",
+      "studentName": "Budi Santoso Wijaya",
+      "className": "XII RPL 1",
+      "date": "2026-11-14",
+      "checkInTime": "07:22:18",
+      "timestamp": "2026-11-14T07:22:18+07:00",
+      "status": "Terlambat",
+      "photoUrl": "/api/seed-photo/student_proof_budi_1794646261491.jpg",
+      "cameraDevice": "Kamera Ruang Piket 01",
+      "notes": "Terlambat 7 menit karena antrean gerbang depan.",
+      "verified": true
+    },
+    {
+      "id": "att-seed-02",
+      "studentId": "stu-02",
+      "nis": "20261002",
+      "studentName": "Siti Nurhaliza Putri",
+      "className": "XII RPL 1",
+      "date": "2026-11-14",
+      "checkInTime": "07:08:45",
+      "timestamp": "2026-11-14T07:08:45+07:00",
+      "status": "Hadir",
+      "photoUrl": "/api/seed-photo/student_proof_siti_1794646260711.jpg",
+      "cameraDevice": "Kamera Kelas XII RPL 1",
+      "notes": "",
+      "verified": true
+    },
+    {
+      "id": "att-seed-01",
+      "studentId": "stu-01",
+      "nis": "20261001",
+      "studentName": "Ahmad Fauzan Pratama",
+      "className": "XII RPL 1",
+      "date": "2026-11-14",
+      "checkInTime": "06:54:12",
+      "timestamp": "2026-11-14T06:54:12+07:00",
+      "status": "Hadir",
+      "photoUrl": "/api/seed-photo/student_proof_ahmad_1794646261008.jpg",
+      "cameraDevice": "Kamera Ruang Piket 01",
+      "notes": "",
+      "verified": true
+    }
+  ],
+  "settings": {
+    "schoolName": "SMK Negeri 1 Nusantara",
+    "academicYear": "2026/2027",
+    "cutoffTime": "07:15"
+  }
+}

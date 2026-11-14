@@ -1,0 +1,6 @@
+{
+  "name": "HadirSekolah",
+  "description": "Sistem absensi siswa sekolah dengan verifikasi foto kamera langsung, pencatatan waktu masuk otomatis, dan rekap kehadiran harian.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
